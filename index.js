@@ -1,5 +1,9 @@
+// Cargar las variables de entorno desde el archivo .env
+require('dotenv').config();
+
 const http = require('http');
 
+// Usar el puerto del archivo .env o 3000 por defecto si no se encuentra la variable
 const PORT = process.env.PORT || 3000;
 
 // Contenido HTML con diseño bonito y responsivo

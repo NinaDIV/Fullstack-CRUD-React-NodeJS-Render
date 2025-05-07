@@ -1,0 +1,17 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar el archivo .env (si estás usando variables de entorno)
+.env
+
+# Ignorar la carpeta de configuración de IDEs como VSCode
+.vscode/
+
+# Ignorar archivos de dependencias de paquetes como Yarn
+yarn-error.log
+
+# Ignorar el directorio de distribución de npm (si estás usando npm)
+npm-debug.log

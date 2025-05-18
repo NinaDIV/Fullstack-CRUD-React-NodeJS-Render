@@ -16,7 +16,7 @@ El proyecto fue desarrollado utilizando:
 
 > _Imagen referencial del sistema en funcionamiento_
 
-![Vista de la aplicación](./ruta-a-tu-imagen/gestion-alimentos.png)
+![Vista de la aplicación](https://github.com/NinaDIV/Despliegue-en-render/blob/main/Imagenes/app.png?raw=true)
 
 ---
 

@@ -20,5 +20,31 @@ El proyecto fue desarrollado utilizando:
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## 🚀 Despliegue en Render
 
+Se crearon **dos servicios** en Render desde este mismo repositorio:
+
+- 🔙 **Backend API:** `/backend`  
+  - Build: `npm install`
+  - Start: `node index.js`
+- 🌐 **Frontend (React):** `/frontend`  
+  - Build: `npm install && npm run build`
+  - Start: `npm run preview`
+
+---
+
+## 🧪 Funcionalidades
+
+- Crear nuevas **categorías** con nombre y descripción.
+- Agregar **alimentos** asignándolos a una categoría.
+- Registrar **calorías**, descripción y estado (disponible/no).
+- Visualizar en una **tabla interactiva** todos los datos ingresados.
+
+---
+
+
+## 🎥 Video de Presentación
+
+🎬 [Ver en Google Drive](https://drive.google.com/file/d/1hwguYhnwgIlgO-FDkmSLUbmOIVd5qv1L/view?usp=sharing)
+
+---
